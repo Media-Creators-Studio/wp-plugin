@@ -1,0 +1,10 @@
+.mc-box-title {
+    border-bottom: 1px solid #dcdcde;
+    margin: 0;
+    padding: 1em;
+}
+
+.mc-box-inside .dashicons {
+    margin-left: .4em;
+    margin-right: .4em;
+}
